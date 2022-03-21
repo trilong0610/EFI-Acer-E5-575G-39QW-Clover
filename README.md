@@ -27,6 +27,7 @@ Card Wifi: **Intel® Wireless-AC 8260**
 ##### LƯU Ý SAU KHI CÀI:
 - Map lại usb hoặc dùng thử USBInjectall.kext nếu không thể sleep
 - Patch SSDT-PLUG cho đúng với CPU
+- Chỉnh TouchPad Mode: Advanced trong BIOS
 **************************************************************
 # ENG
 ##### WORKED
@@ -45,3 +46,4 @@ Card Wifi: **Intel® Wireless-AC 8260**
 ##### Work after download:
 - Map usb or use USBInjectall.kext to fix cann't sleep
 - Patch SSDT-PLUG with your device
+- Change TouchPad Mode: Advanced in BIOS
