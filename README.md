@@ -4,11 +4,11 @@
 ##### Clover 5145
 macOS **Monterey Version 12.2.1** (Build 21D62)  
 CPU: Intel **i3-7100U** @2.40GHz  
-Ram: **8GB DDR4 2133/2400**
-SSD: **KLEVV NEO N400 240GB**
-TouchPad: **ELAN0501**
-iGPU: **Intel HD Graphics 620** 
-Card Wifi: **Intel® Wireless-AC 8260**
+Ram: **8GB DDR4 2133/2400**  
+SSD: **KLEVV NEO N400 240GB**  
+TouchPad: **ELAN0501**  
+iGPU: **Intel HD Graphics 620**  
+Card Wifi: **Intel® Wireless-AC 8260**  
  **************************************************************
 # VIE
 ##### Những chức năng hoạt động
